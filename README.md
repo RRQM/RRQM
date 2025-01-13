@@ -46,11 +46,6 @@
 </p>
 
 <p align="center">
-   <img src="https://repobeats.axiom.co/api/embed/39c0fd2a6c017b8d6c29d2eac1939f539c277033.svg" />
-</p>
-
-<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RRQM/count.svg" />
-  <img src="wechat-official-account.png" />
 </p>
